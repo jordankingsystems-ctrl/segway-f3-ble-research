@@ -1,0 +1,10 @@
+# Raw device data and secrets are local only
+private/
+.env
+.env.*
+*.btsnoop
+*.pcap
+*.pcapng
+bugreport*
+__pycache__/
+.venv/
